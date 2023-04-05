@@ -1,0 +1,33 @@
+        DAY 02: HEADING TAGS AND HTML BOILERPLATE OVERVIEW
+
+What are Heading tags?
+    Heading tags are used to show the importance of the content written in the web page.There are 6 (six) heading tags viz <h1>,<h2>,<h3>,<h4>,<h5> and <h6>.
+
+# It is the misconception of some coders that Heading tags are used to customize the font size of the content but It is wrong.
+
+SEO=> Search Engine Optimization for google, ms edge webpages rank.
+
+HTML BOILERPLATE OVERVIEW
+
+<!DOCTYPE html>
+
+<html lang="en"> ---> It is the starting point of HTML
+
+<head> ---> This tag contains metadata about the HTML such as author, title etc.
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document Title</title> --->It is displayed in the browser's title bar or tab
+
+</head>
+
+<body> ---> It contains all the content or information that is to be displayed in the browser
+    
+</body>
+
+</html>
+
