@@ -1,0 +1,32 @@
+    Day 01: Introduction to HTML and Live Server
+
+WHAT IS HTML?
+  The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser (Google Chrome, Microsoft Edge, Brave etc.).
+
+# We use HTML to design the web pages displayed in the browser.
+
+Wesbite building three basic requirements ---> HTML, CSS and JS
+
+WHAT IS LIVE SERVER?
+  Live server creates a local web server on your machine and automatically opens your HTML file in your default web browser. This allows you to see your changes in real-time without having to    manually refresh the page every time you make an    edit in your HTML file.
+
+# It is the popular extension of Visual Studio Code (VS Code).
+
+---BOILERPLATE OF HTML---
+HTML boilerplate refers to the basic structure of an HTML file that is used as a starting point for building a webpage.
+
+Here is an example of an HTML boilerplate:
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Page Title</title>
+  </head>
+  <body>
+  Hello World
+  </body>
+</html>
+
+
+**** TRY THE EXERCISE GIVEN WITHIN THE FILE ****
