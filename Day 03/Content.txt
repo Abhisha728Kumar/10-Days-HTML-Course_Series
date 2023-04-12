@@ -1,0 +1,15 @@
+        DAY 03: INTRODUCTION TO CONTAINER TAGS
+
+What are Container Tags?
+In HTML, container tags are used to define a section of content that should be grouped together for a specific purpose. These tags have both an opening and closing tag, and the content that falls between these tags is considered part of the container.
+
+Some common container tags --->
+1. <div> -(div tag) This tag is used to define a division or section of an HTML document. It is often used to group related content together. This tags occupy the whole width contained within the height.
+
+2. <span> -(span tag) This tag is similar to the <div> tag, but it is used to group inline elements, such as text or images.
+
+3. <p> -(paragraph tag) This tag is used to define a paragraph of text or content.
+
+4. <pre> -(pre tag) This tag is used to define the content or text as it is written in the code.
+
+5. <code> -(code tag) The code element represents a fragment of computer code. This could be an XML element name, a file name, a computer program, or any other string that a computer would recognize
