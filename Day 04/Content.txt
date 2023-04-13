@@ -1,0 +1,15 @@
+        DAY 04: INTRODUCTION TO TEXT FORMATTING TAGS
+
+Text Formatting tags are used to prettify or make an impact over the text displayed in the web page. This can be achieved by using some most common tags which are :--
+
+1. <b> (bold tag) => This tag is used to make the font size thick in width.
+
+2. <i> (italic tag) => This tag is used to make the text slightly bent towards right.
+
+3. <strong> (strong tag) => This tag is used to show the text written within this tag is more important.
+
+4. <sup> (superscript tag) => This tag is used to display a expression which are written as raise to the power.
+
+5. <sub> (subscript tag) => This tag is used to display a expression which are written as below the text.
+
+6. <em> (emphasis tag) => This tag is used to indicate emphasis on the the piece of text. It will render the text in different styling to outstand it from the surrounding text.
