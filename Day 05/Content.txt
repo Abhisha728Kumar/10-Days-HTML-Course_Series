@@ -1,0 +1,26 @@
+        DAY 05: INTRODUCTION TO LISTS
+
+What is List?
+List is the collection of items displayed in the webpage by enclosing the each <li> item in <ul> or <ol>.
+
+<ul> stands for unordered list and <ol> stands for ordered list.
+
+Case of using:
+
+Case 1: Unordered list
+<ul>
+<li> item 1</li>
+<li> item 2</li>
+<li> item 3</li>
+<li> item 4</li>
+</ul>
+
+Case 2: Ordered list
+<ol>
+<li> item 1</li>
+<li> item 2</li>
+<li> item 3</li>
+<li> item 4</li>
+</ol>
+
+QUICK QUIZ : Webpage render or display the collection of famous cricketers in unordered list
