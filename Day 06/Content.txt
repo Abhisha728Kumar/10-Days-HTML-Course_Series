@@ -1,0 +1,13 @@
+        DAY 06 : MULTIMEDIA TAGS (audio, video and image)
+
+HTML provides several tags for adding multimedia content, including audio and video.Let's see how it can be used to display videos,audio and images on a webpage.
+
+1. <img> (image tag) => This tag is used to display image in the given width and height.
+Syntax: <img src="my-image.jpg" alt="My image">
+
+2. <audio> (audio tag) => This tag is used to play the audio in the webpage with its controls of pausing and resuming.
+Syntax: <audio src="my-audio.mp3" controls></audio>
+
+3. <video> (video tag) => This tag is used to embed a video in the webpage with its controls.
+Syntax: <video src="my-video.mp4" width="640" height="360" controls></video>
+	
